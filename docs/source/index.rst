@@ -1,20 +1,33 @@
-.. NestaPlatform documentation master file, created by
-   sphinx-quickstart on Thu Mar 11 13:05:00 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to NestaPlatform's documentation!
-=========================================
+=================================================
+Nesta Platform's Documentation for Developers
+=================================================
+
+.. toctree::
+   :maxdepth: 1
+   :caption: DOCUMENTATION:
+
+   getting-started
+   requirements
+   reporting-system
+   payment-system
+   dashboard
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Data format:
 
+   data-id
+   data-game
+   data-payment
 
+.. toctree::
+   :maxdepth: 2
+   :caption: API REFERENCE:
 
-Indices and tables
-==================
+   http
+   api-user
+   api-game
+   api-payment
+   api-utils
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
