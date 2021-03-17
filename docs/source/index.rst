@@ -9,9 +9,6 @@ Nesta Platform's Documentation for Developers
 
    getting-started
    requirements
-   reporting-system
-   payment-system
-   dashboard
 
 .. toctree::
    :maxdepth: 2
@@ -30,4 +27,4 @@ Nesta Platform's Documentation for Developers
    api-game
    api-payment
    api-utils
-
+   api-callback
